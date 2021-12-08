@@ -19,3 +19,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+name: "📅 Isometric commit calendar"
+category: github
+index: 0
+supports:
+  - user
+inputs:
+
+  # Enable or disable plugin
+  plugin_isocalendar:
+    description: Display an isometric view of your commits calendar
+    type: boolean
+    default: no
+
+  # Set time window shown by isometric calendar
+  plugin_isocalendar_duration:
+    description: Set time window shown by isometric calendar
+    type: string
+    default: half-year
+    values:
+      - half-year
+      - full-year
