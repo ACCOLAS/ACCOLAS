@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img align="right" width="250" alt="🦑" src="https://count.getloli.com/get/@:Arezki-kaki?theme=rule34%22%3E">
+<img align="right" width="250" alt="🦑" src="https://count.getloli.com/get/@ACCOLAS?theme=rule34%22%3E">
 
 <a href="#"><img align="center" width="70%" height="350" src="https://pic.clubic.com/v1/images/1709824/raw%22/%3E</a>
 <br/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arezki
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarah
 <img width="150" src="https://weather-icon.journeyad.repl.co/@paris?v=1" align="center">
 </h1>
 **ACCOLAS/ACCOLAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
