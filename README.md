@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi i'm SARAH 👋
 
 <img align="right" width="250" alt="🦑" src="https://count.getloli.com/get/@ACCOLAS?theme=rule34%22%3E">
+<img src="https://i.pinimg.com/originals/51/cd/94/51cd94805cf6a0f4563837464f5da442.png" width="400px"/>
 
 <a href="#"><img align="center" width="70%" height="350" src="https://pic.clubic.com/v1/images/1709824/raw%22/%3E</a>
 <br/>
@@ -8,6 +9,7 @@
 <img width="150" src="https://weather-icon.journeyad.repl.co/@paris?v=1" align="center">
 </h1>
 **ACCOLAS/ACCOLAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Here are some ideas to get you started:
 
